@@ -8,9 +8,14 @@ The dashboard provides business insights by analyzing sales performance across p
 
 
 ## Dashboard Preview
-![Dashboard Overview](Images/interactive-excel-dashboard.PNG)
+README.md
+dash board.xlsx
 
-![Salesman Analysis](Images/sales-analytics-dashboard.PNG)
+Images/
+├── interactive-excel-dashboard.PNG
+└── sales-analytics-dashboard.PNG
+
+
 
 ## Features
 
