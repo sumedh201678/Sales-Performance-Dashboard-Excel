@@ -14,6 +14,9 @@ dash board.xlsx
 Images/
 ├── interactive-excel-dashboard.PNG
 └── sales-analytics-dashboard.PNG
+![Dashboard Overview](Images/interactive-excel-dashboard.PNG)
+
+![Salesman Analysis](Images/sales-analytics-dashboard.PNG)
 
 
 
